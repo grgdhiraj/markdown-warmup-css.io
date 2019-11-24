@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    color: whitesmoke;
+
+    background-image:
+            linear-gradient(to top, #35a1d6, #3696cc, #355e8d, #335682, #314e77, #2e466c, #2b3e61, #355e8d);}
+
+body {font-family: 'Arial', sans-serif;}
+
+img {border-radius: 50%;}
+
+.center {
+    margin: auto;
+    width: 80em;
+}
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#page-wrap {
+    width: 800px;
+    margin: 0 auto;}
